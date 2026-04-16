@@ -1,0 +1,6 @@
+{
+  "adminUsername": "Nidal152000",
+  "adminPasswordHash": "$2b$12$mQw2lOLXWP0XXecwxD1mC./zEEROg23cNzU7bbHKaoyaL.O/k/v4u",
+  "jwtSecret": "omar_hassan_super_secret_jwt_2024",
+  "port": 5000
+}
